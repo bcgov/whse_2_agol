@@ -1,6 +1,6 @@
 # whse_2_agol
 
-![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)
+![img](https://img.shields.io/badge/Lifecycle-Dormant-007EC6)
 
 Project structure for managing whse_2_agol activities.
 
